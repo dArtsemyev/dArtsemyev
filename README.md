@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![HTML](https://img.shields.io/static/v1?message=<HTML>&color=<BLUE>)
-![CSS](https://img.sheilds.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/static/v1?message=<CSS>&color=<BLUE>)
 ![JavaScript](https://img.sheilds.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.sheilds.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![ReactJs](https://img.sheilds.io/badge/-ReactJs-090909?style=for-the-badge&logo=ReactJs)
