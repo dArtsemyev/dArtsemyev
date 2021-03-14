@@ -1,12 +1,14 @@
 ### Hi there 👋
 
 ![HTML](https://img.sheilds.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.sheilds.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![JavaScript](https://img.sheilds.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.sheilds.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![ReactJs](https://img.sheilds.io/badge/-ReactJs-090909?style=for-the-badge&logo=ReactJs)
+![Redux](https://img.sheilds.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 
 <!--
 **dArtsemyev/dArtsemyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![HTML](https://img.sheilds.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-
 
 Here are some ideas to get you started:
 
