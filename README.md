@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![HTML](https://img.sheilds.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/static/v1?message=<HTML>&color=<BLUE>)
 ![CSS](https://img.sheilds.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.sheilds.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.sheilds.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
