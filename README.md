@@ -2,7 +2,7 @@
 
 ![HTML](https://img.sheilds.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.sheilds.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![JavaScript](https://img.sheilds.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://as1.ftcdn.net/jpg/02/49/94/34/500_F_249943490_P7KwlZJJuxfS3m85xPG6bkuAmFUhdiZs.jpg)
 ![TypeScript](https://img.sheilds.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![ReactJs](https://img.sheilds.io/badge/-ReactJs-090909?style=for-the-badge&logo=ReactJs)
 ![Redux](https://img.sheilds.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
