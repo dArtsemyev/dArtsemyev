@@ -1,23 +1,9 @@
-### Hi there 👋
+Header
 
-![HTML](https://img.shields.io/static/v1?message=<HTML>&color=<BLUE>)
-![CSS](https://img.shields.io/static/v1?message=<CSS>&color=<BLUE>)
-![JavaScript](https://img.sheilds.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.sheilds.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
-![ReactJs](https://img.sheilds.io/badge/-ReactJs-090909?style=for-the-badge&logo=ReactJs)
-![Redux](https://img.sheilds.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+About me
 
-<!--
-**dArtsemyev/dArtsemyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Latest projects
 
-Here are some ideas to get you started:
+Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Follow Me
