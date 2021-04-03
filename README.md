@@ -1,6 +1,6 @@
 [![Header](https://github.com/dArtsemyev/dArtsemyev/blob/main/assets/header.png)](https://www.linkedin.com/in/dmitry-artsemyev/)
 
-## Beginnner Software Engineer
+## Beginnner Frontend Developer
 
 Latest projects
 
