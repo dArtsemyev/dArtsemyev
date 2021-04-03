@@ -9,6 +9,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-181F20?style=for-the-badge&logo=Redux&logoColor=green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181F20?style=for-the-badge&logo=JavaScript&logoColor=red)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-181F20?style=for-the-badge&logo=TypeScript&logoColor=3179C7)
+![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-181F20?style=for-the-badge)
+
 
 ### Follow Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-181F20?style=flat&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/dmitry-artsemyev/)
