@@ -3,6 +3,7 @@
 ## Beginner Frontend Developer
 
 ### Latest projects
+![TodoList](https://dartsemyev.github.io/todo_list/)
 
 ### Technologies
 ![React](https://img.shields.io/badge/-React-181F20?style=for-the-badge&logo=react&logoColor=3179C7)
