@@ -19,3 +19,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-181F20?style=flat&logo=Instagram&logoColor=b4068e)](https://www.Instagram.com/kain176/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dArtsemyev&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
